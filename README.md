@@ -1,5 +1,5 @@
 # NEAT-AI
-![Sample Run](https://github.com/Zafirmk/PropertyFinder/blob/master/SampleRun.gif)  
+![Sample Run](https://github.com/Zafirmk/NEAT-AI/blob/master/SampleImg.png)  
 
 **Project duration**: 3 days  
 **Text Editor**: Sublime Text (Community Edition)  
@@ -19,9 +19,9 @@ The NEAT-AI works with a set population and a set number of generations. Where i
 
 * The neural network associated with each genome is as follows:
 
-* [Neural Network](placeholder)
+* ![Neural Network](https://github.com/Zafirmk/NEAT-AI/blob/master/ImageNN.png)
 
-* Where inputs x1, x2, x3, x4, x5 are the positions of the four asteroids and the position of the genome.
+* Where inputs x1, x2, x3, x4, x5 are the positions of the four asteroids and the position of the genome and y is an output value that decides if the genome should move UP or DOWN.
 
 * Through the ConfigFile.txt all parameters can be edited.
 
